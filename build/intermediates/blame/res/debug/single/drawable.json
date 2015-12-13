@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/mark/gcm/1213/gcm2015-master/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/mark/gcm/1213/gcm2015-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/drawable/design_fab_background.xml"
-    },
-    {
         "merged": "/home/mark/gcm/1213/gcm2015-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/home/mark/gcm/1213/gcm2015-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/mark/gcm/1213/gcm2015-master/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/mark/gcm/1213/gcm2015-master/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/mark/gcm/1213/gcm2015-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
